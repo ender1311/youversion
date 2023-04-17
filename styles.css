@@ -1,0 +1,68 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    width:450px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 24px;
+}
+p {
+    font-size: 18px;
+}
+a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+.plan {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+.plan-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.plan-details {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.footer {
+    font-size: 14px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.youversion {
+
+    text-align: center; /*centers the image*/
+    margin: 2rem; /*adds margin to the top and bottom of the image*/
+}
+
+.fix_eyes {
+    width: 100%;
+    text-align: center;
+    color:#256a81;
+    font-weight: bold;
+    margin-top:2rem;
+    margin-bottom:2rem;
+
+}
+.plan_button {
+    width: 90%;
+    background-color: #256a81;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: 12px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
